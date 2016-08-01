@@ -775,6 +775,7 @@ span.carousel-btn {
   z-index: 1501; }
   #logo .logo img {
     max-height: 100px;
+    min-height: 100px;
     width: auto; }
   @media all and (max-width: 767px) {
     #logo {
