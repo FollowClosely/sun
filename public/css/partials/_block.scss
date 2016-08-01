@@ -335,11 +335,14 @@
 .nav-weather-wrapper {
 	display: flex;
 	align-items: center;
+
 	canvas {
 		margin: 0;
 		margin-left: .5rem;
 	}
 	span {
+		min-width:160px;
+		max-height:50px;
 		color: $main;
 		font-family: $serifBold;
 		font-size: 1.6em;

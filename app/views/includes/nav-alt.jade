@@ -11,16 +11,15 @@
 				each val, index in nav
 					li.nav-map-li
 						a(href= val)= index
-
 		.nav-social-wrapper.sm-hide
 			.nav-social-top
 					each val, index in social
 						a(href= index target='_blank')
 							i(class="fa fa-#{val}")
 			.nav-weather-wrapper
-				canvas#partly-cloudy-day(width='36', height='36')
-				span 98°
-				//- span (972) 333-0714
+				//- canvas#partly-cloudy-day(width='36', height='36')
+				//- span 98°
+				span (972) 333-0714
 
 		.nav-sm-only
 			a
