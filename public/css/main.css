@@ -753,6 +753,8 @@ span.carousel-btn {
     line-height: 1.6;
     margin-left: .4rem;
     margin-right: 2rem; }
+    .nav-weather-wrapper span a:hover {
+      color: #55a4ff; }
 
 @media screen and (min-width: 768px) {
   .nav-ghost-wrapper {
