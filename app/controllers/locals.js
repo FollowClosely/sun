@@ -52,12 +52,13 @@ module.exports = function (app) {
 	};
 
 	app.locals.footerUl = {
-		'Home': '',
-		'Swimming Pools': 'swimming-pools',
-		'Get a Quote': '#open-modal-contact',
-		'Financing': 'financing',
-		'Special Features': 'special-features',
-		'Swim Spas': 'swim-spas'
+		'Home': '/',
+		'BBB': 'http://www.bbb.org/dallas/business-reviews/swimming-pool-contractors-dealers-design/sun-ray-pools-and-spas-in-rowlett-tx-90005855',
+		'Swimming Pools': '/swimming-pools',
+		'Get a Quote': '/#open-modal-contact',
+		'Financing': '/financing',
+		'Special Features': '/special-features',
+		'Swim Spas': '/swim-spas'
 	};
 	app.locals.nav = {
 		'Welcome': '',
