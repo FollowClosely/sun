@@ -89,7 +89,7 @@ module.exports = function IndexData(opts) {
 					bodySmall: 'Custom features to make your pool truly one-of-a-kind.',
 					anchor: {
 						route: 'special-features',
-						text: 'Check out more special features'
+						text: 'More special features'
 					},
 					caption: 'Custom features to make your pool truly one-of-a-kind.'
 			},

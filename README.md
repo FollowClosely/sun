@@ -4,9 +4,10 @@
 
 1. ~~add /thank-you to 'do not index' in robots.txt~~
 2. ~~change BBB image to anchor tag in logos.jade~~
-3. on /about-us, fix "choose which services" click problem
-4. tidy up /swimming-pools images & presentation
-5. get blog up and running (fix CSS; maybe use Ghost?)
+3. ~~add 'get a quote' bucket in campaign monitor (did this disappear?)~~
+4. ~~fix email-only form in hero (looks like submit button is outside form)~~
+5. ~~add media query for iPhones so hero text doesn't break lines~~ (NEEDS MORE TESTING!)
 6. on / fix bug where hero.active and hs.active interact
-7. ~~add 'get a quote' bucket in campaign monitor (did this disappear?)~~
-8. ~~fix email-only form in hero (looks like submit button is outside form)~~
+7. on /about-us, fix "choose which services" click problem
+8. tidy up /swimming-pools images & presentation
+9. get blog up and running (fix CSS; maybe use Ghost?)

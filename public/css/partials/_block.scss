@@ -59,6 +59,9 @@
 		width: auto;
 		text-shadow: 0 0 4px #666;
 		padding-bottom: 10px;
+		@media (max-width:480px){
+			font-size: 46px;
+		}
 	}
 	form {
 		padding-top: 10px;

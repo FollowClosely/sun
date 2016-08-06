@@ -468,6 +468,9 @@ span.carousel-btn {
     width: auto;
     text-shadow: 0 0 4px #666;
     padding-bottom: 10px; }
+    @media (max-width: 480px) {
+      .hero-cta h1, .special-cta h1 {
+        font-size: 46px; } }
   .hero-cta form, .special-cta form {
     padding-top: 10px; }
   .hero-cta input, .special-cta input {
