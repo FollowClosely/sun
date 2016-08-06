@@ -113,9 +113,9 @@ $(function() {
 	});
 	$('#hero-ul a').on('click', function(){
 		$(this).removeClass('no-after');
-		$('#hero-ul a.active').addClass('no-after');
-		$('a.active').removeClass('active');
-		$(this).addClass('active');
+		$('#hero-ul a.active-btn').addClass('no-after');
+		$('a.active-btn').removeClass('active-btn');
+		$(this).addClass('active-btn');
 	});
 
 

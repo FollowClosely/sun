@@ -460,7 +460,7 @@ span.carousel-btn {
     color: white; }
     .hero-cta a:hover, .special-cta a:hover {
       background-color: rgba(116, 192, 5, 0.5); }
-    .hero-cta a.active, .special-cta a.active {
+    .hero-cta a.active-btn, .special-cta a.active-btn {
       background-color: rgba(116, 192, 5, 0.8);
       text-decoration: none; }
   .hero-cta h1, .special-cta h1 {
@@ -470,7 +470,8 @@ span.carousel-btn {
     padding-bottom: 10px; }
     @media (max-width: 480px) {
       .hero-cta h1, .special-cta h1 {
-        font-size: 46px; } }
+        font-size: 46px;
+        line-height: 1.2; } }
   .hero-cta form, .special-cta form {
     padding-top: 10px; }
   .hero-cta input, .special-cta input {

@@ -49,7 +49,7 @@
 		&:hover {
 			background-color: $accentTransLight;
 		}
-		&.active {
+		&.active-btn {
 			background-color: $accentTrans;
 			text-decoration: none;
 		}
@@ -61,6 +61,7 @@
 		padding-bottom: 10px;
 		@media (max-width:480px){
 			font-size: 46px;
+			line-height:1.2;
 		}
 	}
 	form {
