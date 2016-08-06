@@ -1,9 +1,9 @@
-#TODO
+#SunRayPools Repo
 
-1. yo:opts
-2. gulpfile
-3. further modularize includes and models
-	(can I pass in data?)
-4. browserify
-	(works with gulp?)
-5. fix gulp.config file
+###Todo:
+
+1. add /thank-you to 'do not index' in robots.txt
+2. change BBB image to anchor tag in logos.jade
+3. get blog up and running (fix CSS; maybe use Ghost?)
+4. tidy up /swimming-pools images & presentation
+5. on /about-us, fix "choose which services" click problem
