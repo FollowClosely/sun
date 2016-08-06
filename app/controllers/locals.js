@@ -53,7 +53,7 @@ module.exports = function (app) {
 
 	app.locals.footerUl = {
 		'Home': '/',
-		'BBB': 'http://www.bbb.org/dallas/business-reviews/swimming-pool-contractors-dealers-design/sun-ray-pools-and-spas-in-rowlett-tx-90005855',
+		// 'BBB': 'http://www.bbb.org/dallas/business-reviews/swimming-pool-contractors-dealers-design/sun-ray-pools-and-spas-in-rowlett-tx-90005855',
 		'Swimming Pools': '/swimming-pools',
 		'Get a Quote': '/#open-modal-contact',
 		'Financing': '/financing',

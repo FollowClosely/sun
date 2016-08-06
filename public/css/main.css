@@ -1265,6 +1265,12 @@ li.active .headshot img {
     @media (min-width: 768px) {
       .partners ul li {
         padding: 0 40px; } }
+  @media (max-width: 768px) {
+    .partners .logos-alt a {
+      padding: 0 10px; } }
+  @media (min-width: 768px) {
+    .partners .logos-alt a {
+      padding: 0 40px; } }
 
 .mobile-menu:before {
   content: "\2630";
