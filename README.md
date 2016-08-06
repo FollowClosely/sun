@@ -7,3 +7,4 @@
 3. get blog up and running (fix CSS; maybe use Ghost?)
 4. tidy up /swimming-pools images & presentation
 5. on /about-us, fix "choose which services" click problem
+6. on /, fix bug where hero.active and hs.active interact
