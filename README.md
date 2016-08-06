@@ -9,4 +9,4 @@
 5. get blog up and running (fix CSS; maybe use Ghost?)
 6. on / fix bug where hero.active and hs.active interact
 7. ~~add 'get a quote' bucket in campaign monitor (did this disappear?)~~
-8. fix email-only form in hero (looks like submit button is outside form)
+8. ~~fix email-only form in hero (looks like submit button is outside form)~~
