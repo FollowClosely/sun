@@ -11,6 +11,6 @@
 7. on /about-us, fix "choose which services" click problem
 8. tidy up /swimming-pools images & presentation
 9. get blog up and running (fix CSS; maybe use Ghost?)
-10. compress images
+10. ~~compress images~~
 11. uglify main.js
 12. migrate server off cloudflare to reverse proxy (e.g. nginx)
