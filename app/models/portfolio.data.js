@@ -36,9 +36,9 @@ module.exports = function () {
 			]
 		},
 		rowtwo: {
-			0:[ 'slide07.jpg', 'Residential Pools', 'taxi', 'outdoor-living', 'See just how beautiful your new pool could be' ],
-			1:[ 'slide08.jpg', 'Outdoor Kitchens', 'subway', 'financing', 'Custom-made and designed for outdoor living' ],
-			2:[ 'slide09.jpg', 'Patios & Decks', 'bicycle', 'swimming-pools', 'Your whole backyard, custom-built to your liking' ]
+			0:[ 'slide59.jpg', 'Residential Pools', 'taxi', 'outdoor-living', 'See just how beautiful your new pool could be' ],
+			1:[ 'slide60.jpg', 'Outdoor Kitchens', 'subway', 'financing', 'Custom-made and designed for outdoor living' ],
+			2:[ 'slide61.jpg', 'Patios & Decks', 'bicycle', 'swimming-pools', 'Your whole backyard, custom-built to your liking' ]
 		}
 	};
 
