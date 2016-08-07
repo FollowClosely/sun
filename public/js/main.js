@@ -162,9 +162,9 @@ $(function() {
 	});
 	$('#special-ul a').on('click', function(){
 		$(this).removeClass('no-after');
-		$('#special-ul a.active').addClass('no-after');
-		$('a.active').removeClass('active');
-		$(this).addClass('active');
+		$('#special-ul a.active-btn').addClass('no-after');
+		$('a.active-btn').removeClass('active-btn');
+		$(this).addClass('active-btn');
 	});
 
 	$('#quote0').on('click', function(){

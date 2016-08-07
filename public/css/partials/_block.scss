@@ -132,7 +132,7 @@
 		position: relative;
 		font-family: $sans;
 	}
-	a.active:after {
+	a.active-btn:after {
 		content: '';
 		border-radius: 0!important;
 		bottom: 0;

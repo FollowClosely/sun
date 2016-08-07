@@ -528,7 +528,7 @@ span.carousel-btn {
 #hero-ul a, #special-ul a {
   position: relative;
   font-family: "OpenSans-Book", sans-serif; }
-#hero-ul a.active:after, #special-ul a.active:after {
+#hero-ul a.active-btn:after, #special-ul a.active-btn:after {
   content: '';
   border-radius: 0 !important;
   bottom: 0;
