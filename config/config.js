@@ -1,12 +1,12 @@
 var path = require('path'),
-		rootPath = path.normalize(__dirname + '/..'),
-		env = process.env.NODE_ENV || 'development';
+	rootPath = path.normalize(__dirname + '/..'),
+	env = process.env.NODE_ENV || 'development';
 
 var config = {
 	development: {
 		root: rootPath,
 		app: {
-			name: 'generator-followclosely'
+			name: 'srp_node_6.2.1'
 		},
 		port: process.env.PORT || 3000,
 	},
@@ -14,7 +14,7 @@ var config = {
 	test: {
 		root: rootPath,
 		app: {
-			name: 'generator-followclosely'
+			name: 'srp_node_6.2.1'
 		},
 		port: process.env.PORT || 3000,
 	},
@@ -22,7 +22,7 @@ var config = {
 	production: {
 		root: rootPath,
 		app: {
-			name: 'generator-followclosely'
+			name: 'srp_node_6.2.1'
 		},
 		port: process.env.PORT || 3000,
 	}
