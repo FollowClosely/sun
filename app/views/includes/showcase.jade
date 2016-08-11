@@ -1,8 +1,8 @@
 .showcase-wrapper
   .showcase
-    each val in showcase
-      a.card-wrapper
-        .showcase-item
+    each val, i in showcase
+      a.card-wrapper(href='#showcase-item-' + i)
+        .showcase-item.smooth-scroll(class='showcase-item-#{i}')
           .show-card
             .circle
               img(src='images/#{val.img}')
