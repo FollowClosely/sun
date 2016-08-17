@@ -1,7 +1,7 @@
 module.exports = function (app) {
-	if(!opts) {
-		var opts = {};
-	}
+	// if(!opts) {
+	// 	var opts = {};
+	// }
 
 	app.locals.company = 'Sun Ray Pools';
 	app.locals.phone = 9723330714;

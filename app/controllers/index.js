@@ -153,27 +153,27 @@ module.exports = function (app) {
 
 	// 301s
 	router.all('/outdoor-living.html', function(req, res) {
-		return res.sendStatus(301);
+		res.sendStatus(301);
 		res.redirect('/outdoor-living');
 	});
 	router.all('/about-us.html', function(req, res) {
-		return res.sendStatus(301);
+		res.sendStatus(301);
 		res.redirect('/about-us');
 	});
 	router.all('/financing.html', function(req, res) {
-		return res.sendStatus(301);
+		res.sendStatus(301);
 		res.redirect('/financing');
 	});
 	router.all('/swim-spas.html', function(req, res) {
-		return res.sendStatus(301);
+		res.sendStatus(301);
 		res.redirect('/swim-spas');
 	});
 	router.all('/swimming-pools.html', function(req, res) {
-		return res.sendStatus(301);
+		res.sendStatus(301);
 		res.redirect('/swimming-pools');
 	});
 	router.all('/special-features.html', function(req, res) {
-		return res.sendStatus(301);
+		res.sendStatus(301);
 		res.redirect('/special-features');
 	});
 
